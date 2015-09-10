@@ -1,0 +1,3 @@
+# fillItUp
+
+Resource assignment example
